@@ -1,4 +1,4 @@
 # demo_repo
 My first repo
 </br>
-Author- Aryan 
+Author- Aryan Raj Shrivastava
